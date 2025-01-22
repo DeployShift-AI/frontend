@@ -55,13 +55,21 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 Frontend/
+
 ├── src/
+
 │   ├── components/     # React components
+
 │   ├── hooks/         # Custom React hooks
+
 │   ├── store/         # Zustand store
+
 │   ├── lib/           # Utility functions
+
 │   └── main.tsx       # Application entry point
+
 ├── public/            # Static assets
+
 └── index.html         # HTML template
 
 ## Available Scripts
